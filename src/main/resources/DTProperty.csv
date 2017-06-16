@@ -1,0 +1,11 @@
+time,0
+urn:ogc:def:property:OGC:1.0:windSpeed,11
+urn:ogc:def:property:OGC:1.0:windDirect,12
+urn:ogc:def:property:OGC:1.0:airTemp,14
+urn:ogc:def:property:OGC:1.0:airPres,15
+urn:ogc:def:property:OGC:1.0:waterTemp,8
+urn:ogc:def:property:OGC:1.0:electConduct,10
+urn:ogc:def:property:OGC:1.0:seaWaterPracticalSanlinity,9
+urn:ogc:def:property:OGC:1.0:windGust,13
+urn:ogc:def:property:OGC:1.0:referenceKoreaTide,16
+urn:ogc:def:property:OGC:1.0:tideLevelOTT,1

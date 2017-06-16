@@ -1,0 +1,3 @@
+ftp.nodc.noaa.gov#anonymous#anonymous#DTStationID.csv#DTProperty.csv#yuan.ocean.DownloadService.FtpDownFileload.FTPDownload#yuan.ocean.InsertObservationService.KoreanDecodeFile#KoreanFile
+ftp.nodc.noaa.gov#anonymous#anonymous#TWStationID.csv#TWProperty.csv#yuan.ocean.DownloadService.FtpDownFileload.FTPDownload#yuan.ocean.InsertObservationService.KoreanDecodeFile#KoreanFile
+ftp.nodc.noaa.gov#anonymous#anonymous#IEStationID.csv#IEProperty.csv#yuan.ocean.DownloadService.FtpDownFileload.FTPDownload#yuan.ocean.InsertObservationService.KoreanDecodeFile#KoreanFile

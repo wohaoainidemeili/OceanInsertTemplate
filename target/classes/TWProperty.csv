@@ -1,0 +1,14 @@
+time,0
+urn:ogc:def:property:OGC:1.0:windSpeed,11
+urn:ogc:def:property:OGC:1.0:windDirect,12
+urn:ogc:def:property:OGC:1.0:airTemp,17
+urn:ogc:def:property:OGC:1.0:airPres,15
+urn:ogc:def:property:OGC:1.0:waterTemp,8
+urn:ogc:def:property:OGC:1.0:electConduct,10
+urn:ogc:def:property:OGC:1.0:windSpeedMax,13
+urn:ogc:def:property:OGC:1.0:currentSpeed,6
+urn:ogc:def:property:OGC:1.0:currentDirect,7
+urn:ogc:def:property:OGC:1.0:significantWaveHeight,1
+urn:ogc:def:property:OGC:1.0:significantWavePeriod,2
+urn:ogc:def:property:OGC:1.0:maxWaveHeight,3
+urn:ogc:def:property:OGC:1.0:maxWavePeriod,4
